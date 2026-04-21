@@ -4,13 +4,13 @@ A digital health platform leveraging AI to provide instant, accessible maternal 
 
 ---
 
-## 📋 Overview
+## Overview
 
 MamaCare AI is an intelligent health assistant that bridges the gap between mothers and vital health information. Built for low-resource settings, it delivers trustworthy medical guidance through mobile phones and web interfaces, reducing barriers to healthcare access in rural and underserved communities.
 
 ---
 
-## 🎯 Mission & Objectives
+## Mission & Objectives
 
 - **Reduce Information Gaps** - Provide accurate, verified health information to mothers who lack access to medical professionals
 - **Overcome Geographic Barriers** - Eliminate the need for long-distance travel to health facilities for basic guidance
@@ -20,7 +20,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## ⚙️ Technology Stack
+## Technology Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -33,7 +33,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 🔥 Core Features
+## Core Features
 
 | Feature | Description |
 |---------|-------------|
@@ -46,7 +46,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
@@ -80,7 +80,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 🗄️ Database Architecture
+## Database Architecture
 
 | Model | Purpose |
 |-------|---------|
@@ -93,17 +93,17 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 🔐 Safety & Compliance
+## Safety & Compliance
 
-- ✅ **Medical Disclaimer** - Clear labeling that MamaCare AI is not a substitute for professional medical care
-- ✅ **Safe Responses** - No medication recommendations or diagnostic prescriptions
-- ✅ **Emergency Detection** - Automated flagging of high-risk symptoms requiring immediate care
-- ✅ **Audit Logging** - Complete chat history retention for quality assurance
-- ✅ **Human Oversight** - Licensed doctors can review and validate AI responses
+- [x] **Medical Disclaimer** - Clear labeling that MamaCare AI is not a substitute for professional medical care
+- [x] **Safe Responses** - No medication recommendations or diagnostic prescriptions
+- [x] **Emergency Detection** - Automated flagging of high-risk symptoms requiring immediate care
+- [x] **Audit Logging** - Complete chat history retention for quality assurance
+- [x] **Human Oversight** - Licensed doctors can review and validate AI responses
 
 ---
 
-## 📊 Target Users
+## Target Users
 
 - **Expectant Mothers** - Prenatal guidance and pregnancy tracking
 - **Breastfeeding Mothers** - Postnatal support (0-2 years)
@@ -113,7 +113,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 💰 Impact & Benefits
+## Impact & Benefits
 
 ### For Mothers
 | Benefit | Description |
@@ -133,7 +133,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 🚧 Challenges & Considerations
+## Challenges & Considerations
 
 | Challenge | Mitigation Strategy |
 |-----------|---------------------|
@@ -145,7 +145,7 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 🛣️ Implementation Roadmap
+## Implementation Roadmap
 
 | Phase | Duration | Deliverables |
 |-------|----------|--------------|
@@ -157,29 +157,29 @@ MamaCare AI is an intelligent health assistant that bridges the gap between moth
 
 ---
 
-## 📱 Expected Outcomes
+## Expected Outcomes
 
-- ⚡ **Sub-10 Second Response Time** - Mothers receive answers instantly
-- 📉 **Reduced Unnecessary Hospital Visits** - Fewer trips for non-urgent questions
-- 📈 **Increased Health Awareness** - Measurable improvement in maternal knowledge
-- 🔔 **Timely Interventions** - Vaccinations and checkups completed on schedule
-- 🚨 **Early Emergency Detection** - Danger signs recognized and acted upon quickly
+- **Sub-10 Second Response Time** - Mothers receive answers instantly
+- **Reduced Unnecessary Hospital Visits** - Fewer trips for non-urgent questions
+- **Increased Health Awareness** - Measurable improvement in maternal knowledge
+- **Timely Interventions** - Vaccinations and checkups completed on schedule
+- **Early Emergency Detection** - Danger signs recognized and acted upon quickly
 
 ---
 
-## ⚠️ Limitations & Disclaimers
+## Limitations & Disclaimers
 
 > **Important:** MamaCare AI has important constraints all users must understand:
 
-- ❌ **Not a Doctor** - Cannot replace consultation with licensed medical professionals
-- ❌ **No Physical Exams** - Cannot perform diagnostic tests or physical assessments
-- ❌ **No Prescriptions** - Does not recommend specific medications or dosages
-- ❌ **Requires Connectivity** - Currently internet-dependent (offline features planned)
-- ❌ **Language Limited** - Currently supports Swahili and English only
+- [ ] **Not a Doctor** - Cannot replace consultation with licensed medical professionals
+- [ ] **No Physical Exams** - Cannot perform diagnostic tests or physical assessments
+- [ ] **No Prescriptions** - Does not recommend specific medications or dosages
+- [ ] **Requires Connectivity** - Currently internet-dependent (offline features planned)
+- [ ] **Language Limited** - Currently supports Swahili and English only
 
 ---
 
-## 🎓 Conclusion
+## Conclusion
 
 MamaCare AI represents a modern solution to enduring maternal health challenges in Tanzania and across Africa. By combining artificial intelligence with accessible technology, we bring reliable health guidance directly into the hands of every mother—anywhere, anytime.
 
@@ -187,15 +187,15 @@ MamaCare AI represents a modern solution to enduring maternal health challenges 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from developers, healthcare professionals, and translators. Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+## Contact
 
 For inquiries, partnerships, or support:
 - Email: info@mamacare.ai
@@ -204,5 +204,5 @@ For inquiries, partnerships, or support:
 ---
 
 <p align="center">
-  <strong>Made with ❤️ for mothers everywhere</strong>
+  <strong>Made with love for mothers everywhere</strong>
 </p>
